@@ -1,0 +1,1 @@
+In this project we can understood logical problem solving in python. In this project I had use string operations, conditional statement, file I/O operations, functions in python and create this project name as a Spy Games.
