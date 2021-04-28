@@ -1,0 +1,1 @@
+In this project I had created a student management system. we can manage students record using this project.
