@@ -1,0 +1,1 @@
+Creat a project of make sense of census using  a numpy arrays and data wragling  in python.
