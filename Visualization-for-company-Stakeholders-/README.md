@@ -1,0 +1,1 @@
+The stakeholders of Dream Housing Finance company to help them get visual insights on the company's operations. Using the data visualization techniques I learned, I had help visualise the data and see if I can help the stakeholders arrive at some inference based on the visual plots.
